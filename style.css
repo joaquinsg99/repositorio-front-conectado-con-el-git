@@ -1,0 +1,36 @@
+#navbar { 
+    display: flex;
+   justify-content: flex-end;
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+   background: var(--main-red);
+   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
+   z-index: 10; 
+ background-color: rgb(223, 53, 7);
+ }
+ #nav-list {
+   color: white;
+   text-decoration: none;
+ display: flex; 
+ padding: 20px 10px 10px 10px;
+ } 
+ 
+ #welcome-section {
+   position: relative;
+   top: 50px;
+ }
+ .secciones { 
+   position: relative;
+   top: 50px;
+ }
+ #titulos-divisorios {
+   background-color: red;
+   width: 200px;
+ }
+ #projects {
+   position: relative;
+   bottom: 1050px;
+   left: 400px;
+ }
