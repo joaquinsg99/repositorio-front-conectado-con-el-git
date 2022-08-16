@@ -24,6 +24,9 @@
  .secciones { 
    position: relative;
    top: 50px;
+   border-color: red;
+   border-width: 1px;
+   border-style: solid;
  }
  #titulos-divisorios {
    background-color: red;
@@ -31,6 +34,13 @@
  }
  #projects {
    position: relative;
-   bottom: 1000px;
-   left: 400px;
+   bottom: 1030px;
+   left: 1000px;
+ }
+ .foto {
+  position: relative;
+  bottom: 1279px;
+   left: 1300px;
+  height: 230PX;
+  width: 230px;
  }
